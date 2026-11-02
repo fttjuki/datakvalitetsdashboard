@@ -1,5 +1,5 @@
 # HUNT PSA - interaktiv rapport
-# Shiny-app med nasjonale referansetall og HUNT-resultater beregnet i HUNT Cloud.
+# Shiny-app med nasjonale referansetall og HUNT-resultater beregnet.
 
 
 required_packages <- c("shiny", "ggplot2", "survival")
